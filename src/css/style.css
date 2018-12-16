@@ -1,0 +1,14 @@
+* ,body {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+}
+
+li {
+	list-style: none;
+}
+
+.picture {
+	background: url(../images/01.jpg);
+	width: 100%;
+}
