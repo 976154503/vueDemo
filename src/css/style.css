@@ -10,5 +10,6 @@ li {
 
 .picture {
 	background: url(../images/01.jpg);
-	width: 100%;
+	width:1024px;
+	height: 686px;
 }
