@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'open-iconic/font/css/open-iconic-bootstrap.css'
 
 class Person {
-	static info = {name:'zs', age:20}
+	static info = { name:'zs', age:20 }
 }
 console.log(Person.info)
 $(function(){
